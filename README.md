@@ -1,4 +1,4 @@
-# Classic Snake - Snake for LB-Phone
+# Classic Snake '99 - Snake for LB-Phone
 Presenting a personalized application exclusively for the LB-Phone – Classic Snake.
 This game is a modern spin on the timeless Snake, designed to elevate your gaming experience.
 
