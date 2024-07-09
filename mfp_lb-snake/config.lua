@@ -1,6 +1,6 @@
 Config = {}
 
-Config.name = "Classic Snake" -- Name of the App
+Config.name = "Classic Snake '99" -- Name of the App
 Config.description = "Relive the Retro Fun!" -- disc in the appstore (edit for your local)
 Config.defaultApp = false -- OPTIONAL if set to true, app should be added without having to download it,
 Config.size = 3932 -- OPTIONAL in kb
